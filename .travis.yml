@@ -1,7 +1,4 @@
+---
 language: java
-
-notifications:
-  email: false
-
 jdk:
-  - oraclejdk7
+- oraclejdk7
